@@ -10,11 +10,11 @@ This was a college group project. We were supposed to choose a big dataset (+100
 
 **Some Insights:**
 
+Infographic (designed on canva.com)
+![alt tag](https://github.com/PaulineStach/InsightsFromTheWorldHappinessReport/blob/master/Images/Infographic.jpg)
+
 Perceived and 'actual' happiness --> who is more or less optimistic
 ![alt tag](https://github.com/PaulineStach/InsightsFromTheWorldHappinessReport/blob/master/Images/Dashboard%201.png)
 
 Happiness: Locally vs foreign born
 ![alt tag](https://github.com/PaulineStach/InsightsFromTheWorldHappinessReport/blob/master/Images/Dashboard%203.png)
-
-Infographic (designed on canva.com)
-![alt tag](https://github.com/PaulineStach/InsightsFromTheWorldHappinessReport/blob/master/Images/Infographic.jpg)
